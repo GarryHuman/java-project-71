@@ -1,7 +1,6 @@
 .PHONY: build
 build:
-	./gradlew clean
-	./gradlew installDist
+	./gradlew clean build
 
 .PHONY: run
 run:
