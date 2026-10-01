@@ -16,7 +16,7 @@ public class Parser {
     return switch (format.toLowerCase()) {
       case "json" -> new ObjectMapper();
       case "yml", "yaml" -> new YAMLMapper();
-      default -> throw new IllegalArgumentException("Unknown data format: " + format);
+      default -> throw new IllegalArgumentException("Неизвестный формат данных: " + format);
     };
   }
 }

@@ -29,7 +29,7 @@ public class Plain {
         case "unchanged" -> {
           // Неизмененные свойства пропускаются
         }
-        default -> throw new IllegalArgumentException("Unknown node type: " + type);
+        default -> throw new IllegalArgumentException("Неизвестный тип узла: " + type);
       }
     }
 

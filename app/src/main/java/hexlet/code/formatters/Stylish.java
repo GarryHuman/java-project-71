@@ -22,7 +22,7 @@ public class Stylish {
           result.append(String.format("  - %s: %s\n", key, node.get("oldValue")));
           result.append(String.format("  + %s: %s\n", key, node.get("newValue")));
         }
-        default -> throw new IllegalArgumentException("Unknown node type: " + type);
+        default -> throw new IllegalArgumentException("Неизвестный тип узла: " + type);
       }
     }
 
