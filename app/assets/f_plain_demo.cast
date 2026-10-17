@@ -1,0 +1,12 @@
+{"version": 2, "width": 188, "height": 51, "timestamp": 1792248360, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.013563, "o", "\u001b[?2004h\u001b]0;garryhuman@HRAD-PC: ~/java-project-71/app\u0007\u001b[01;32mgarryhuman@HRAD-PC\u001b[00m:\u001b[01;34m~/java-project-71/app\u001b[00m$ "]
+[0.735615, "o", "\u001b[7m./build/install/app/bin/app -f plain src/test/resources/file1.yml src/test/resources/file2.yml\u001b[27m"]
+[1.961933, "o", "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C./build/install/app/bin/app -f plain src/test/resources/file1.yml src/test/resources/file2.yml\r\n\u001b[?2004l\r"]
+[2.235496, "o", "Property 'chars2' was updated. From [complex value] to false\r\nProperty 'checked' was updated. From false to true\r\nProperty 'default' was updated. From null to [complex value]\r\nProperty 'id' was updated. From 45 to null\r\nProperty 'key1' was removed\r\nProperty 'key2' was added with value: 'value2'\r\nProperty 'numbers2' was updated. From [complex value] to [complex value]\r\nProperty 'numbers3' was removed\r\nProperty 'numbers4' was added with value: [complex value]\r\nProperty 'obj1' was added with value: [complex value]\r\nProperty 'setting1' was updated. From 'Some value' to 'Another value'\r\nProperty 'setting2' was updated. From 200 to 300\r\nProperty 'setting3' was updated. From true to 'none'\r\n"]
+[2.264263, "o", "\u001b[?2004h\u001b]0;garryhuman@HRAD-PC: ~/java-project-71/app\u0007\u001b[01;32mgarryhuman@HRAD-PC\u001b[00m:\u001b[01;34m~/java-project-71/app\u001b[00m$ "]
+[4.607411, "o", "e"]
+[4.975694, "o", "x"]
+[5.093039, "o", "i"]
+[5.256323, "o", "t"]
+[5.714692, "o", "\r\n\u001b[?2004l\r"]
+[5.714853, "o", "exit\r\n"]

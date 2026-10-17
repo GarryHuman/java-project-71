@@ -1,0 +1,12 @@
+{"version": 2, "width": 188, "height": 51, "timestamp": 1792248455, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.014372, "o", "\u001b[?2004h\u001b]0;garryhuman@HRAD-PC: ~/java-project-71/app\u0007\u001b[01;32mgarryhuman@HRAD-PC\u001b[00m:\u001b[01;34m~/java-project-71/app\u001b[00m$ "]
+[2.495007, "o", "\u001b[7m./build/install/app/bin/app -f json src/test/resources/file1.json src/test/resources/file2.json\u001b[27m"]
+[3.847702, "o", "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C./build/install/app/bin/app -f json src/test/resources/file1.json src/test/resources/file2.json\r\n\u001b[?2004l\r"]
+[4.103655, "o", "[{\"key\":\"chars1\",\"type\":\"unchanged\",\"value\":[\"a\",\"b\",\"c\"]},{\"key\":\"chars2\",\"type\":\"changed\",\"oldValue\":[\"d\",\"e\",\"f\"],\"newValue\":false},{\"key\":\"checked\",\"type\":\"changed\",\"oldValue\":false,\"newValue\":true},{\"key\":\"default\",\"type\":\"changed\",\"oldValue\":null,\"newValue\":[\"value1\",\"value2\"]},{\"key\":\"id\",\"type\":\"changed\",\"oldValue\":45,\"newValue\":null},{\"key\":\"key1\",\"type\":\"deleted\",\"value\":\"value1\"},{\"key\":\"key2\",\"type\":\"added\",\"value\":\"value2\"},{\"key\":\"numbers1\",\"type\":\"unchanged\",\"value\":[1,2,3,4]},{\"key\":\"numbers2\",\"type\":\"changed\",\"oldValue\":[2,3,4,5],\"newValue\":[22,33,44,55]},{\"key\":\"numbers3\",\"type\":\"deleted\",\"value\":[3,4,5]},{\"key\":\"numbers4\",\"type\":\"added\",\"value\":[4,5,6]},{\"key\":\"obj1\",\"type\":\"added\",\"value\":{\"nestedKey\":\"value\",\"isNested\":true}},{\"key\":\"setting1\",\"type\":\"changed\",\"oldValue\":\"Some value\",\"newValue\":\"Another value\"},{\"key\":\"setting2\",\"type\":\"changed\",\"oldValue\":200,\"newValue\":300},{\"key\":\"setting3\",\"type\":\"changed\",\"oldValue\":true,\"newValue\":\"none\"}]\r\n"]
+[4.11352, "o", "\u001b[?2004h\u001b]0;garryhuman@HRAD-PC: ~/java-project-71/app\u0007\u001b[01;32mgarryhuman@HRAD-PC\u001b[00m:\u001b[01;34m~/java-project-71/app\u001b[00m$ "]
+[6.139299, "o", "e"]
+[6.373876, "o", "x"]
+[6.49302, "o", "i"]
+[6.624859, "o", "t"]
+[7.112744, "o", "\r\n\u001b[?2004l\r"]
+[7.11292, "o", "exit\r\n"]

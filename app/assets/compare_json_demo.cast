@@ -1,0 +1,12 @@
+{"version": 2, "width": 188, "height": 51, "timestamp": 1792248250, "env": {"SHELL": "/bin/bash", "TERM": "xterm-256color"}}
+[0.01447, "o", "\u001b[?2004h\u001b]0;garryhuman@HRAD-PC: ~/java-project-71/app\u0007\u001b[01;32mgarryhuman@HRAD-PC\u001b[00m:\u001b[01;34m~/java-project-71/app\u001b[00m$ "]
+[1.920993, "o", "\u001b[7m./build/install/app/bin/app src/test/resources/file1.json src/test/resources/file2.json\u001b[27m"]
+[3.310251, "o", "\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C./build/install/app/bin/app src/test/resources/file1.json src/test/resources/file2.json\r\n\u001b[?2004l\r"]
+[3.563266, "o", "{\r\n    chars1: [a, b, c]\r\n  - chars2: [d, e, f]\r\n  + chars2: false\r\n  - checked: false\r\n  + checked: true\r\n  - default: null\r\n  + default: [value1, value2]\r\n  - id: 45\r\n  + id: null\r\n  - key1: value1\r\n  + key2: value2\r\n    numbers1: [1, 2, 3, 4]\r\n  - numbers2: [2, 3, 4, 5]\r\n  + numbers2: [22, 33, 44, 55]\r\n  - numbers3: [3, 4, 5]\r\n  + numbers4: [4, 5, 6]\r\n  + obj1: {nestedKey=value, isNested=true}\r\n  - setting1: Some value\r\n  + setting1: Another value\r\n  - setting2: 200\r\n  + setting2: 300\r\n  - setting3: true\r\n  + setting3: none\r\n}\r\n"]
+[3.573101, "o", "\u001b[?2004h\u001b]0;garryhuman@HRAD-PC: ~/java-project-71/app\u0007\u001b[01;32mgarryhuman@HRAD-PC\u001b[00m:\u001b[01;34m~/java-project-71/app\u001b[00m$ "]
+[5.895044, "o", "e"]
+[6.100388, "o", "x"]
+[6.204858, "o", "i"]
+[6.366097, "o", "t"]
+[7.149051, "o", "\r\n\u001b[?2004l\r"]
+[7.149249, "o", "exit\r\n"]

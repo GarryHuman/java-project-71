@@ -11,13 +11,13 @@ import picocli.CommandLine.Parameters;
     synopsisHeading = "%nUsage: ",
     mixinStandardHelpOptions = true,
     version = "gendiff 1.0",
-    description = "Сравнивает два файла конфигурации и показывает различия.")
+    description = "Compares two configuration files and show a difference.")
 public class App implements Callable<Integer> {
 
-  @Parameters(index = "0", paramLabel = "filepath1", description = "Путь к первому файлу")
+  @Parameters(index = "0", paramLabel = "filepath1", description = "Path to the first file")
   private String filepath1;
 
-  @Parameters(index = "1", paramLabel = "filepath2", description = "Путь ко второму файлу")
+  @Parameters(index = "1", paramLabel = "filepath2", description = "Path to the second file.")
   private String filepath2;
 
   @Option(
