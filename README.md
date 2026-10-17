@@ -65,7 +65,7 @@ make build
 ## Демонстрации
 
 ### Сравнение плоских файлов
-[![asciicast](https://asciinema.org/a/UIL7PlfytaD9CUkt)](https://asciinema.org)
+[![asciicast](https://asciinema.org/a/UIL7PlfytaD9CUkt.svg)](https://asciinema.org/a/UIL7PlfytaD9CUkt.svg)
 
 ### Сравнение вложенных файлов
 [![asciicast](https://asciinema.org/a/mSuC9XKSxum4VL3p)](https://asciinema.org)
