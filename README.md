@@ -65,13 +65,13 @@ make build
 ## Демонстрации
 
 ### Сравнение плоских файлов
-[![asciicast](https://asciinema.org/a/UIL7PlfytaD9CUkt.svg)](https://asciinema.org/a/UIL7PlfytaD9CUkt.svg)
+![Сравнение плоских файлов.](app/assets/compare_json_demo.gif)
 
 ### Сравнение вложенных файлов
-[![asciicast](https://asciinema.org/a/mSuC9XKSxum4VL3p)](https://asciinema.org)
+![Сравнение вложенных файлов.](app/assets/compare_yml_demo.gif)
 
 ### Формат plain
-[![asciicast](https://asciinema.org/a/T5B0YyCPVmNex48f)](https://asciinema.org)
+![Формат plain.](app/assets/f_plain_demo.gif)
 
 ### Формат json
-[![asciicast](https://asciinema.org/a/KSKp1QzvADZ5enGD)](https://asciinema.org)
+![Формат json.](app/assets/f_json_demo.gif)
