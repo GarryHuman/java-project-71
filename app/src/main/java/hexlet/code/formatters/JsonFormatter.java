@@ -4,7 +4,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import java.util.List;
 import java.util.Map;
 
-public class Json {
+public class JsonFormatter {
 
   // Сериализация списка различий в JSON-строку
   public static String format(List<Map<String, Object>> diff) throws Exception {

@@ -3,7 +3,7 @@ package hexlet.code.formatters;
 import java.util.List;
 import java.util.Map;
 
-public class Stylish {
+public class StylishFormatter {
 
   // Преобразование структуры различий в формат stylish
   public static String format(List<Map<String, Object>> diff) {
@@ -22,7 +22,7 @@ public class Stylish {
           result.append(String.format("  - %s: %s\n", key, node.get("oldValue")));
           result.append(String.format("  + %s: %s\n", key, node.get("newValue")));
         }
-        default -> throw new IllegalArgumentException("Неизвестный тип узла: " + type);
+        default -> throw new IllegalArgumentException("Unknown type of node: " + type);
       }
     }
 

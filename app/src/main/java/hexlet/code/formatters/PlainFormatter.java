@@ -5,7 +5,7 @@ import java.util.Collection;
 import java.util.List;
 import java.util.Map;
 
-public class Plain {
+public class PlainFormatter {
 
   // Преобразование списка различий в формат plain
   public static String format(List<Map<String, Object>> diff) {
@@ -29,7 +29,7 @@ public class Plain {
         case "unchanged" -> {
           // Неизмененные свойства пропускаются
         }
-        default -> throw new IllegalArgumentException("Неизвестный тип узла: " + type);
+        default -> throw new IllegalArgumentException("Unknown type of node: " + type);
       }
     }
 

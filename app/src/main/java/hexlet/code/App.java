@@ -30,9 +30,14 @@ public class App implements Callable<Integer> {
   @Override
   public Integer call() throws Exception {
     // Вызов генератора с переданным форматом и вывод результата
-    String diff = Differ.generate(filepath1, filepath2, format);
-    System.out.println(diff);
-    return 0;
+    try {
+      String diff = Differ.generate(filepath1, filepath2, format);
+      System.out.println(diff);
+      return 0;
+    } catch (Exception e) {
+      System.out.println(e.getMessage());
+      return 1;
+    }
   }
 
   public static void main(String[] args) {
